@@ -103,4 +103,4 @@ Agent: Great! 🌴 Based on your mood, here’s a plan:
 
 🛠️ Python 3.10+
 
-
+🙋 Created By SEERAT FATIMA 🎓 GIAIC Student | 🧠 Passionate about AI & Career Empowerment
